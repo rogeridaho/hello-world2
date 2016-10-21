@@ -1,2 +1,2 @@
 # hello-world2
-Just another lrepository
+Just another repository
